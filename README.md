@@ -1,2 +1,5 @@
 # react-state-management
-easy peasy react state management
+
+run npm install
+
+run npm start
